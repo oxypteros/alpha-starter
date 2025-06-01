@@ -6,8 +6,8 @@
 
 # Alpha Starter Site — Hugo Theme Template
 [![Hugo Version](https://img.shields.io/badge/Hugo-%5E0.146.1-5f5f5f?&style=flat&logoColor=white)](https://github.com/gohugoio/hugo/releases)
-[![License](https://img.shields.io/github/license/oxypteros/alpha-starter-site?label=License&style=flat&color=5f5f5f)](https://github.com/oxypteros/alpha-starter-site/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/oxypteros/alpha-starter-site?label=Last%20Commit&style=flat&color=5f5f5f)](https://github.com/oxypteros/alpha-starter-site/commits/main)
+[![License](https://img.shields.io/github/license/oxypteros/alpha-starter?label=License&style=flat&color=5f5f5f)](https://github.com/oxypteros/alpha-starter/blob/main/LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/oxypteros/alpha-starter?label=Last%20Commit&style=flat&color=5f5f5f)](https://github.com/oxypteros/alpha-starter/commits/main)
 
 [![Live Demo](https://img.shields.io/badge/Demo-alpha.oxypteros.com-2196f3)](https://alpha.oxypteros.com)
 [![Docs](https://img.shields.io/badge/Docs-Available-2196f3)](https://alpha.oxypteros.com/docs)

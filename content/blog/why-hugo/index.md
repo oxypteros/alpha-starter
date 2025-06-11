@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = "2025-05-20T22:11:52+02:00"
 lastmod = ""
 layout = "page"
@@ -17,7 +17,6 @@ recommended = true
 featured = false
 description = "A personal take on why Hugo won and not other static site generators or blogging platforms."
 +++
-{{< featured TYPE="banner">}}
 {{< status-card TITLE="Disclaimer" TYPE="info" >}}
 This post reflects my **personal experience**. Your mileage may vary!
 {{< /status-card >}}

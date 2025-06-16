@@ -25,10 +25,6 @@ theme = "alpha"
 #  [[build.cachebusters]]
 #    source = '(postcss|tailwind)\.config\.js'
 #    target = 'css'
-[module]
-  [module.hugoVersion]
-    min = "0.146.1"
-    max = "0.147.5"
 #  [[module.mounts]]
 #    source = 'assets'
 #    target = 'assets'

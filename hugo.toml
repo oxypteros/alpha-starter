@@ -1,5 +1,4 @@
 # Root Hugo Configuration
-# Place this file in the root of your Hugo site to define global settings.
 #
 # For theme-specific settings, see: `config/_default/`
 # Documentation: https://alpha.oxypteros.com/docs/config/hugo-toml

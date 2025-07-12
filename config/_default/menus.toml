@@ -23,45 +23,49 @@
   url = "/"
   weight = 100 
 
+[[main]]        
+  name = "Blog"
+  url = "/blog/"
+  weight = 110 
 
 # Main Secondary
 
-#[[main_secondary]]
-#  name = "Policy"
-#  url = "/policy"
-#  weight = 100
+[[main_secondary]]
+  name = "Policy"
+  url = "/policy/"
+  weight = 100
 
 
 # Main Social
 
-#[[main_social]]
-#  name = "Github"
-#  url = "https://github.com/oxypteros/alpha-theme"
-#  pre = "#github"
-#  weight = 100
+[[main_social]]
+  name = "Github"
+  url = "https://github.com/oxypteros/alpha"
+  pre = "#github"
+  weight = 100
 
 
 # Footer Menu
 
-#[[footer]]
-#  name = "Policy"
-#  url = "/policy"
-#  weight = 100
+[[footer]]
+  name = "Policy"
+  url = "/policy/"
+  weight = 100
 
 
 # Footer Social
 
-#[[footer_social]]
-#  name = "Github"
-#  url = "https://github.com/oxypteros/alpha-theme"
-#  pre = "#github"
-#  weight = 100
+[[footer_social]]
+  name = "Github"
+  url = "https://github.com/oxypteros/alpha"
+  pre = "#github"
+  weight = 100
 
 
 # Shortcode Social
 
 #[[sc_social]]
 #  name = "Github"
-#  url = "https://github.com/oxypteros/alpha-theme"
+#  url = "https://github.com/oxypteros/alpha"
 #  pre = "#github"
 #  weight = 100

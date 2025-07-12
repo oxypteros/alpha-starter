@@ -7,15 +7,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 <!-- ##[Unreleased]-->
+## [1.0.1-rc.2] — 2025-07-12
+
+### Added
+- Update Alpha Theme to `1.0.0-rc.2`.
+
+## [1.0.0-rc] — 2025-07-10
+
+### Added
+- Update Alpha Theme to `1.0.0-rc`.
+
 ## [0.3.0-beta] — 2025-06-16
+
 ### Added
 - Update Alpha Theme to `0.3.0-beta`.
 
 ## [0.1.1-beta] — 2025-06-01
+
 ### Added
 - Update Alpha Theme to `0.1.1-beta`.
 
 ## [0.1.0-beta] — 2025-05-29
+
 ### Added
 - Initial release of the Alpha Starter template.
 - Includes basic Hugo configuration, example content structure, and pre-configured Alpha theme setup.

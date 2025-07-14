@@ -24,22 +24,22 @@
 
 **Alpha Starter** is intended to be used as a template for a **new** Hugo site using the Alpha theme. It comes with example content and a basic configuration.
 
-If you want to learn more about the theme's features and customization options, please visit the [Alpha Theme official repository](https://github.com/oxypteros/alpha) <!--or the [documentation site](https://alpha.oxypteros.com/docs).-->
+If you want to learn more about the theme's features and customization options, please visit the [Alpha Theme official repository](https://github.com/oxypteros/alpha) or the [documentation site](https://alpha.oxypteros.com/docs/).
 
 **Already have a Hugo site?** Use the [Alpha Theme](https://github.com/oxypteros/alpha) directly instead of this starter template.
 
 
 ## Installation
 
-<!--**New to Hugo?** Start with the ["From zero with zero"](https://alpha.oxypteros.com/get-started) guide. A minimal and complete beginner-friendly step-by-step guide.
+**New to Hugo?** Start with the ["From zero with zero"](https://alpha.oxypteros.com/get-started) guide. A minimal and complete beginner-friendly step-by-step guide.
 
 For complete instructions and configuration, see the [documentation](https://alpha.oxypteros.com/docs).
--->
+
 ### Quick Install
 #### Prerequisites
 - **Git**
 - **Hugo** (`^0.146.1`)
-- Node.js (*optional, for Tailwind CSS*)
+
 
 **"Use this template — Option 1"** (*Recommended*):
 1. Click the green "**Use this template**" button at the top of this repository page.
@@ -55,10 +55,6 @@ For complete instructions and configuration, see the [documentation](https://alp
     ```bash
     hugo server
     ```
-    Or, if you want to include draft content:
-    ```bash
-    hugo server -D
-    ```
 
  **Manual Download/Clone — Option 2**:
 1. Clone or download this `alpha-starter` repository.
@@ -72,13 +68,10 @@ For complete instructions and configuration, see the [documentation](https://alp
     ```bash
     hugo server
     ```
-    Or, if you want to include draft content:
-    ```bash
-    hugo server -D
-    ```
-<!--## Need help?
+
+## Need help?
 *   **Alpha Theme Documentation:** [alpha.oxypteros.com/docs](https://alpha.oxypteros.com/docs)
-*   **Developing Alpha (Tailwind CSS Setup):** [alpha.oxypteros.com/docs/developing-alpha](https://alpha.oxypteros.com/docs/developing-alpha)
+
 *   **Hugo Documentation:** [gohugo.io/documentation](https://gohugo.io/documentation/)-->
 
 ## Feedback or Questions?

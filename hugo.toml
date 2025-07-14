@@ -3,7 +3,7 @@
 # For theme-specific settings, see: `config/_default/`
 # Documentation: https://alpha.oxypteros.com/docs/config/hugo-toml
 
-baseURL = "http://example.com" # Replace with production URL
+baseURL = "https://example.com" # Replace with production URL
 title = "Alpha Theme"
 theme = "alpha"
 #timeZone = "Europe/Rome"

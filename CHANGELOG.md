@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ---
 <!-- ##[Unreleased]-->
+## [v1.2.0] — 2026-01-07
+
+### Added
+- Update Alpha Theme to `v1.2.0`.
+  
 ## [v1.1.1] — 2025-09-18
 
 ### Added

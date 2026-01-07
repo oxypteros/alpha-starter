@@ -23,10 +23,10 @@
   url = "/"
   weight = 100
 
-[[main]]        
-  name = "Blog"
-  url = "/blog/"
-  weight = 110 
+#[[main]]        
+#  name = "Blog"
+#  url = "/blog/"
+#  weight = 110 
 
 # Main Secondary
 #[[main_secondary]]
@@ -34,23 +34,18 @@
 #  url = "/about/"
 #  weight = 100
 
-[[main_secondary]]
-  name = "Policy"
-  url = "/policy/"
-  weight = 110
-
 # Main Social
-[[main_social]]
-  name = "Github"
-  url = "https://github.com/oxypteros/alpha/"
-  pre = "#github"  # Renders a specific icon. See docs for available icons.
-  weight = 100
+#[[main_social]]
+#  name = "Github"
+#  url = "https://github.com/oxypteros/alpha/"
+#  pre = "#github"  # Renders a specific icon. See docs for available icons.
+#  weight = 100
 
 # Footer Menu
-[[footer]]
-  name = "Policy"
-  url = "/policy/"
-  weight = 100
+#[[footer]]
+#  name = "Policy"
+#  url = "/policy/"
+#  weight = 100
 
 # Footer Social
 #[[footer_social]]
@@ -58,12 +53,6 @@
 #  url = "https://x.com/your-username"
 #  pre = "#twitter" # Renders a specific icon. See docs for available icons.
 #  weight = 100
-
-[[footer_social]]
-  name = "Github"
-  url = "https://github.com/oxypteros/alpha/"
-  pre = "#github"  # Renders a specific icon. See docs for available icons.
-  weight = 110
 
 # Shortcode Social
 #[[sc_social]]
